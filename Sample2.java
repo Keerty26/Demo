@@ -7,6 +7,6 @@ class Sample2{
       String word=arr[i];
       rev+=word+" ";
     }
-    System.out.println(rev.trim());
+    System.out.println(rev);
   }
 }
