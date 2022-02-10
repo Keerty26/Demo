@@ -7,5 +7,6 @@ class Sample{
    a++;
    b--;
    }   
+   System.out.println(c);
   }
 }
